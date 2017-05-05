@@ -13,7 +13,7 @@ __Disclaimer__: I only tested in Chrome on macOS v10.12, so ["60% of the time, i
 * You need Chrome Developer Tools. (Don’t worry! I included in video instructions.)
 * Follow the weird steps to “click the hyperlink.” (See video instructions. I still don’t understand why I have to do this. May have something to do with DOM… not important. But if you figure it out, please let me know!)
 * Copy code, paste in console, and hit "Enter."
-* ![alt text](https://media.giphy.com/media/d0NnEG1WnnXqg/giphy.gif "drop the mic")
+
 
 
 
