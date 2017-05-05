@@ -1,7 +1,7 @@
 # download-all-cases-from-canvas
 ## How to (easily) download all cases from Canvas
 
-First, watch [Video Instructions] (https://vimeo.com/216230063)
+Before you get too excited, watch [Video Instructions](https://vimeo.com/216230063),
 password: hbsftw
 
 * I only tested in Chrome.
