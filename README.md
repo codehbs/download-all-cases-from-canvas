@@ -6,7 +6,7 @@ password: hbsftw.
 
 __Disclaimer__: I only tested in Chrome on macOS v10.12, so ["60% of the time, it works every time."](https://youtu.be/pjvQFtlNQ-M)
 
-* Allow popup windows in Chrome.
+* Allow [pop-up windows in Chrome](https://support.google.com/chrome/answer/95472?co=GENIE.Platform%3DDesktop&hl=en), very important! (Type "chrome://settings/search#pop-ups." Under Privacy > Content settings... > Pop-ups, select "Allow all sites to show pop-ups." You can disable it after downloading all cases.)
 * Disable your Chrome PDF Viewer plugin (Type "chrome://settings/content" in Chrome. Scroll down to PDF Documents > Enable "Open PDF files in the default PDF viewer application". See video instructions.)
 * Log in Canvas first.
 * Go to each course's Overview page and run the script.
